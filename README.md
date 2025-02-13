@@ -170,4 +170,5 @@ terraform destroy
 ```
 At the prompt, enter 'yes' and follow the instructions to destroy resources. 
 #   m o d e l d e p l o y - p i p e l i n e  
+ #   m o d e l d e p l o y - p i p e l i n e  
  
